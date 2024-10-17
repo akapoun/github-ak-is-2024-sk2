@@ -2,7 +2,7 @@
         string again = "a";
         while(again == "a") {
             Console.Clear();
-            Console.WriteLine("\n\n****************************************");
+            Console.WriteLine("\n****************************************");
             Console.WriteLine("********* Součet a součin cifer ********");
             Console.WriteLine("****************************************");
             Console.WriteLine("************ Antonín Kapoun ************");
